@@ -1,4 +1,4 @@
-# CardJS
+# Cardstock JS
 
 ![GitHub](https://img.shields.io/github/license/andrewlemons/cardjs)
 ![GitHub top language](https://img.shields.io/github/languages/top/andrewlemons/cardjs)
@@ -7,7 +7,7 @@ A simple tool for simulating playing card based scenarios.
 
 ## Features
 
-CardJS currently has the ability to simulate hands of cards, with each card having a suit and a rank.
+Cardstock JS currently has the ability to simulate hands of cards, with each card having a suit and a rank.
 
 ### Suits
 

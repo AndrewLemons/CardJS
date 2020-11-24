@@ -1,5 +1,4 @@
-import { Hand } from "../src/hand.ts";
-import { Card, Suit, Rank } from "../src/card.ts";
+import { Hand, Card } from "../src/cardstock.ts";
 
 var hand = new Hand([]);
 
